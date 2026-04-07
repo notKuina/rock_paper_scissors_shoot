@@ -9,9 +9,8 @@ Both user and computer emojis shuffle briefly before showing the final choice.
 Keeps track of scores for user and computer.
 Reset button to start a new game.
 Fully responsive and styled with TailwindCSS.
-Demo
 
-(replace with your screenshot)
+Find the game here:https://rock-paper-scissorss-shoot.vercel.app/
 
 Installation
 Clone the repository:
